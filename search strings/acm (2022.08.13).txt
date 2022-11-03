@@ -1,0 +1,1 @@
+https://dl.acm.org/action/doSearch?fillQuickSearch=false&target=advanced&expand=dl&field1=Abstract&text1=%28%22social+impact%22+AND+%28measure*+OR+indicator+OR+method*%29+AND+%22engineering%22%29+&startPage=&rel=nofollow&ContentItemType=research-article
